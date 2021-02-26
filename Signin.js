@@ -21,7 +21,7 @@ function SignIn({setIsSignedIn}) {
     return (
         <>
         <div className="header">
-          <h1>Chinthakayyya Chatting App</h1>
+          <h1>Chatgram App</h1>
         </div>
             <div className="signin-details">
             <form className="form">
