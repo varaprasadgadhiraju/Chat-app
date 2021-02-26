@@ -61,7 +61,7 @@ function App() {
     <>
     <div className="App">
       <div className='title_logout'>
-      <h1 style={{color:"white",padding:"10px 0px 0px 10px"}}>Chatgram<img style={{width:"50px"}} src={logo}/></h1>
+      <h1 style={{color:"white",padding:"10px 0px 0px 10px"}}>Chatgram</h1>
      
       <button className="logout" onClick={logout}>Logout</button></div>
       <div className='container'>
